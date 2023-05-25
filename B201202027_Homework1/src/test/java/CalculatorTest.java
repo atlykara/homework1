@@ -1,5 +1,6 @@
 /*B201202027 Atalay Ergenekon Karakaya
-  Software Verification and Validation Homework 1*/
+  Software Verification and Validation Homework 1
+  https://github.com/atlykara/homework1          */
 
 
 import org.junit.jupiter.api.AfterEach;
